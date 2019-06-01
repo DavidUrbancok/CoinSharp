@@ -8,7 +8,7 @@
             "documentation" : "jbpm-workitems-rest/index.html",
 
             "parameters" : [
-                                "ConnectTimeout" : new StringDataType()
+                 "ConnectTimeout" : new StringDataType()
                 ,"ResultClass" : new StringDataType()
                 ,"ContentType" : new StringDataType()
                 ,"AcceptCharset" : new StringDataType()
