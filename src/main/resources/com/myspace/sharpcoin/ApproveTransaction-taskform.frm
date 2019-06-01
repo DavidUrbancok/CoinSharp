@@ -1,0 +1,1 @@
+{"id":"8a05a650-dd44-4120-9c69-4e0d60171833","name":"ApproveTransaction-taskform.frm","model":{"taskName":"ApproveTransaction","processId":"SharpCoin.Withdraw","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
