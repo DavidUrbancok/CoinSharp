@@ -1,1 +1,0 @@
-{"id":"70606e17-184c-401c-a7ce-f189d14ea2d2","name":"FillRegistrationForm-taskform.frm","model":{"taskName":"FillRegistrationForm","processId":"SharpCoin.Userregistration","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
