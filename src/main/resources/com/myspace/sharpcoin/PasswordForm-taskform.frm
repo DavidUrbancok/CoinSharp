@@ -1,0 +1,1 @@
+{"id":"895eeadc-d72a-4472-93f1-e55d86d4d139","name":"PasswordForm-taskform.frm","model":{"taskName":"PasswordForm","processId":"SharpCoin.UserRegistration","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
