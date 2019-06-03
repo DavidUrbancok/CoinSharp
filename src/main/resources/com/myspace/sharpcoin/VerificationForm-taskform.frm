@@ -1,0 +1,1 @@
+{"id":"73266dfe-71be-4329-813b-45b46f935dd2","name":"VerificationForm-taskform.frm","model":{"taskName":"VerificationForm","processId":"SharpCoin.UserRegistration","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
