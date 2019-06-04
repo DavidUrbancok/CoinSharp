@@ -115,11 +115,11 @@
       </dmndi:DMNShape>&#xd;
       <dmndi:DMNEdge id="dmnedge-_87673471-E508-4213-8C0D-021E2A707067" dmnElementRef="_87673471-E508-4213-8C0D-021E2A707067">&#xd;
         <di:waypoint x="436" y="198"/>&#xd;
-        <di:waypoint x="512" y="105"/>&#xd;
+        <di:waypoint x="512" y="130"/>&#xd;
       </dmndi:DMNEdge>&#xd;
       <dmndi:DMNEdge id="dmnedge-_85E3EFE1-4A53-4FCC-833C-DE8680BCCFCE" dmnElementRef="_85E3EFE1-4A53-4FCC-833C-DE8680BCCFCE">&#xd;
         <di:waypoint x="604" y="198"/>&#xd;
-        <di:waypoint x="512" y="105"/>&#xd;
+        <di:waypoint x="512" y="130"/>&#xd;
       </dmndi:DMNEdge>&#xd;
     </dmndi:DMNDiagram>&#xd;
   </dmndi:DMNDI>&#xd;
