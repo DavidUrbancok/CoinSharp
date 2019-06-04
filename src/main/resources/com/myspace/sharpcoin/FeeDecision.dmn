@@ -26,7 +26,11 @@
           <dmn:text>Currency</dmn:text>&#xd;
         </dmn:inputExpression>&#xd;
       </dmn:input>&#xd;
-      <dmn:output id="_EF2E89EA-1B48-4D79-97B2-60DB0C38CD35" typeRef="number"/>&#xd;
+      <dmn:output id="_EF2E89EA-1B48-4D79-97B2-60DB0C38CD35" typeRef="number">&#xd;
+        <dmn:outputValues id="_5D381E2C-D808-415C-92B2-844EB9F97549">&#xd;
+          <dmn:text>2</dmn:text>&#xd;
+        </dmn:outputValues>&#xd;
+      </dmn:output>&#xd;
       <dmn:rule id="_AE6EB6FE-EEEA-4CEA-B211-274D83CDA0EE">&#xd;
         <dmn:inputEntry id="_F4D7A693-BC80-475C-A99B-5468EA60F3C8">&#xd;
           <dmn:text>&lt; 100</dmn:text>&#xd;
