@@ -1,7 +1,7 @@
 CoinSharp
 =======================
 
-Import this folder into your project
+Import this project folder into your jBPM
 
 or
 
