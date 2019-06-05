@@ -1,4 +1,8 @@
-Repository Init Content
+CoinSharp
 =======================
 
-Your project description here.
+Import this folder into your project
+
+or
+
+you can use github link https://github.com/UrbancokDavid/CoinSharp
